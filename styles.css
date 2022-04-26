@@ -1,0 +1,20 @@
+button{
+    margin:10px;
+    background-color: pink;
+    font-size: 17px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+input{
+    border-radius: 10px;
+}
+#main{
+    margin: 30px;
+    height: 680px;
+    border:2px solid green
+}
+label{
+    color:black;
+    margin-left: 10px;
+}
